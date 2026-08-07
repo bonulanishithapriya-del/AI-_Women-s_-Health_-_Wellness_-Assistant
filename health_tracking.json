@@ -1,0 +1,27 @@
+{
+  "health_tracking": {
+    "user_id": "USR001",
+    "menstrual_cycle": {
+      "cycle_start_date": "2026-08-01",
+      "cycle_length_days": 28,
+      "period_duration_days": 5
+    },
+    "symptoms": [
+      {
+        "date": "2026-08-05",
+        "symptoms": [
+          "Mild cramps",
+          "Fatigue"
+        ],
+        "severity": "Mild"
+      }
+    ],
+    "mood": {
+      "date": "2026-08-05",
+      "status": "Good"
+    },
+    "water_intake_liters": 2.0,
+    "sleep_hours": 7.5,
+    "exercise_minutes": 30
+  }
+}
