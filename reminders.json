@@ -1,0 +1,25 @@
+{
+  "reminders": [
+    {
+      "reminder_id": "REM001",
+      "user_id": "USR001",
+      "type": "Hydration",
+      "message": "Remember to drink water.",
+      "time": "10:00"
+    },
+    {
+      "reminder_id": "REM002",
+      "user_id": "USR001",
+      "type": "Exercise",
+      "message": "Time for your daily physical activity.",
+      "time": "17:00"
+    },
+    {
+      "reminder_id": "REM003",
+      "user_id": "USR001",
+      "type": "Health Check",
+      "message": "Review your wellness and symptom tracking.",
+      "time": "20:00"
+    }
+  ]
+}
