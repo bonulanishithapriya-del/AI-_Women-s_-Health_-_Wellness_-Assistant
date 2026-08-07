@@ -1,0 +1,17 @@
+{
+  "user": {
+    "user_id": "USR001",
+    "name": "Example User",
+    "age": 25,
+    "health_goals": [
+      "Improve fitness",
+      "Track menstrual cycle",
+      "Improve nutrition",
+      "Manage stress"
+    ],
+    "preferences": {
+      "notifications": true,
+      "language": "English"
+    }
+  }
+}
