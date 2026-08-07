@@ -1,0 +1,29 @@
+{
+  "project": "AI Women's Health & Wellness Assistant",
+  "features": [
+    {
+      "name": "Menstrual Tracking",
+      "description": "Track menstrual cycles, symptoms, and related wellness information."
+    },
+    {
+      "name": "AI Health Chat",
+      "description": "Answer general women's health and wellness questions."
+    },
+    {
+      "name": "Wellness Recommendations",
+      "description": "Provide personalized lifestyle, nutrition, fitness, and wellness suggestions."
+    },
+    {
+      "name": "Health Reminders",
+      "description": "Provide reminders for hydration, exercise, medication, appointments, and health activities."
+    },
+    {
+      "name": "Mood Tracking",
+      "description": "Allow users to record and monitor mood and emotional wellness."
+    },
+    {
+      "name": "Health Alerts",
+      "description": "Identify potentially concerning symptoms and encourage users to seek professional medical advice."
+    }
+  ]
+}
