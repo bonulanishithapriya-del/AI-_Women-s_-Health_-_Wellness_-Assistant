@@ -1,0 +1,15 @@
+{
+  "chat": {
+    "user_id": "USR001",
+    "question": "How can I improve my menstrual health?",
+    "ai_response": "Maintaining a balanced diet, staying hydrated, getting regular physical activity, managing stress, and tracking your menstrual cycle can support overall menstrual wellness.",
+    "recommendations": [
+      "Stay hydrated",
+      "Eat a balanced diet",
+      "Exercise regularly",
+      "Get adequate sleep",
+      "Track symptoms and cycle changes"
+    ],
+    "medical_disclaimer": "This information is for general wellness purposes and is not a substitute for professional medical advice."
+  }
+}
